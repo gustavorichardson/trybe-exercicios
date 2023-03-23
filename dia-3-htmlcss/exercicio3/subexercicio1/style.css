@@ -1,0 +1,13 @@
+li:hover {
+  background-color: goldenrod;
+  list-style: none;
+}
+
+li:active {
+  background-color: red;
+}
+
+body {
+  text-align: center;
+  list-style-position: inside;
+}
