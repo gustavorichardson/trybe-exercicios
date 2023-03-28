@@ -1,5 +1,5 @@
-let a = 11
-let b = 13
+let a = 32
+let b = 11
 
 if(a > b){
   console.log("A é maior que B")
